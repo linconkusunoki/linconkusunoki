@@ -2,8 +2,6 @@
 
 I’m a **Software Developer** specialized in **Front-end**, I have more than 6 years of experience building software for clients. Below is a quick overview of my history and my main technical skill sets and technologies I use.
 
-![alt text](https://lincon.dev/static/d6e537194746383b1c34654d22cff048/8d641/about.jpg)
-
 For the past few years, I've been able to work at **Locaweb Group** that is one of the biggest tech companies of Brazil, as a Front-end, I could lead the Agency team at the E-commerce division (Tray), there I managed to solve problems like **Web Performance**, optimize the layouts for better ranking in the **Search Engines**, also think about the **Responsive Design** and develop new templates to optimize the delivery time.
 
 In my last job at Yapay's Engineer Team, I could start a **Design System** from scratch, my mission was to create the design guidelines for all the company's apps and define solid patterns for the Front-end architecture.
