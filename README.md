@@ -1,9 +1,4 @@
 ## Hi there 👋
-
-- 🔭 I’m currently working on a NextJS project
-- 🌱 I’m currently learning AWS deployments
-- 👯 I’m looking to collaborate on React projects
-- 💬 Ask me about HTML, CSS, JavaScript, Animations, React, Testing and Design patterns
 - 📫 How to reach me: https://www.linkedin.com/in/lincon-kusunoki/
 
 <h3 align="left">Languages and Tools:</h3>
